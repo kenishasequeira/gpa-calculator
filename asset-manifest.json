@@ -1,0 +1,25 @@
+{
+  "files": {
+    "main.css": "/gpa-calculator/static/css/main.2fc4bd4f.chunk.css",
+    "main.js": "/gpa-calculator/static/js/main.2e1f1535.chunk.js",
+    "main.js.map": "/gpa-calculator/static/js/main.2e1f1535.chunk.js.map",
+    "runtime-main.js": "/gpa-calculator/static/js/runtime-main.4aa6ad5e.js",
+    "runtime-main.js.map": "/gpa-calculator/static/js/runtime-main.4aa6ad5e.js.map",
+    "static/css/2.af3c1da9.chunk.css": "/gpa-calculator/static/css/2.af3c1da9.chunk.css",
+    "static/js/2.3788fb23.chunk.js": "/gpa-calculator/static/js/2.3788fb23.chunk.js",
+    "static/js/2.3788fb23.chunk.js.map": "/gpa-calculator/static/js/2.3788fb23.chunk.js.map",
+    "index.html": "/gpa-calculator/index.html",
+    "precache-manifest.e6229894f18ff4225966af41d955c3fb.js": "/gpa-calculator/precache-manifest.e6229894f18ff4225966af41d955c3fb.js",
+    "service-worker.js": "/gpa-calculator/service-worker.js",
+    "static/css/2.af3c1da9.chunk.css.map": "/gpa-calculator/static/css/2.af3c1da9.chunk.css.map",
+    "static/css/main.2fc4bd4f.chunk.css.map": "/gpa-calculator/static/css/main.2fc4bd4f.chunk.css.map",
+    "static/js/2.3788fb23.chunk.js.LICENSE.txt": "/gpa-calculator/static/js/2.3788fb23.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.4aa6ad5e.js",
+    "static/css/2.af3c1da9.chunk.css",
+    "static/js/2.3788fb23.chunk.js",
+    "static/css/main.2fc4bd4f.chunk.css",
+    "static/js/main.2e1f1535.chunk.js"
+  ]
+}
